@@ -22,3 +22,7 @@ Download this mod and place it into the StardewValley/Mods folder
 
 ## Compatibility
 This mod is compatible and has been tested with Stardew Valley version 1.6.
+
+
+https://github.com/Ni4nne/StarfruitHat/assets/101357594/18d38b8e-4fd3-4b11-9f8d-408b1b4cc78e
+
