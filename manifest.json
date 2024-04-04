@@ -1,0 +1,11 @@
+{
+   "Name": "StarFruit Hat for 1.6",
+   "Author": "nianne",
+   "Version": "1.0.0",
+   "Description": "Adds Starfruit hat for sale at the Hat Mouse's shop.",
+   "UniqueID": "nianne.StarFruitHat",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Format": "2.0.0",
+       "Changes": [
+           {
+               "Action": "EditData",
+               "Target": "Data/Hats",
+               "Entries": 
+               {
+                   "nianne.StarFruitHat": "StarFruit Hat/Cool starfruit hat./false/false//StarFruit Hat/0/Hats\\Nianne.StarFruitHat"
+               }
+           },
+           {
+               "LogName": "Load sprite for StarFruit Hat",
+               "Action": "Load",
+               "Target": "Hats/nianne.StarFruitHat",
+               "FromFile": "assets/StarFruitHat.png"
+           },
+           {
+               "Action": "EditData",
+               "Target": "Data/Shops",
+               "TargetField": [ "HatMouse", "Items" ],
+               "Entries": {
+                   "nianne.StarFruitHat": {
+                       "Price": 100,
+                       "IgnoreShopPriceModifiers": true,
+                       "Id": "nianne.StarFruitHat",
+                       "ItemId": "nianne.StarFruitHat"
+                   }
+               }
+           }
+       ]
+   }
