@@ -2,7 +2,7 @@
 
 :pushpin: My first mod for Stardew Valley. <br>
 
-:star: This mod uses Content Patcher to add StarFruit Hat in the hat's shop mouse. <br>  (Funciones implementadas)
+:star: This mod uses Content Patcher to add StarFruit Hat in the hat's shop mouse. <br> 
 
 :computer: Content Patcher and JSON. <br> 
 
